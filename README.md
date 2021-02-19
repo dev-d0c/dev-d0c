@@ -10,3 +10,21 @@ About me:
 - 💬 Ask me about webdesign and programming
 - 📫 How to reach me: d0c@f5.si / https://www.d0c.xyz / Discord: https://rp.wtf/d0c / Twitter: https://rp.wtf/twitter
 
+What offers do I have:
+
+- Wordpress move to a new server
+- Customize Wordpress URL
+- Wordpress theme design
+- Wordpress Hosting
+- Design HTML and CSS web pages
+- Domains
+- Hosting
+- Python Coding
+- Discord Bots Development
+- C++ Development
+- JS Development
+- Lua Development
+- and more
+
+Sincerely
+Christian
